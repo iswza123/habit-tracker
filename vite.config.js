@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // uncomment the base line and set it to "/<repo>/".
 export default defineConfig({
   plugins: [react()],
-  // base: "/habit-tracker/",
+  base: "/habit-tracker/",
 });
